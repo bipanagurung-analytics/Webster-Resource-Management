@@ -1,0 +1,201 @@
+Equipment ID,Name,Category,PurchaseDate,CurrentLocation,Status,LastMaintenance,LastModifiedBy,ChangeTimeStamp
+E001,Basketballs,Sports,3/15/2023,F002,Available,1/10/2024,Riley@webster.edu,1/10/2024 12:30
+E002,Swimming Lanes Marker,Sports,11/20/2022,F001,Available,10/3/2023,Pradip@webster.edu,1/15/2024 9:45
+E003,Yoga Mats (10 set),Furniture,8/1/2023,F009,In Use,2/17/2024,Katie@webster.edu,3/20/2024 1:30
+E004,Projector,AV,1/20/1900,F005,Available,11/6/2023,Justin@webster.edu,2/9/2024 11:45
+E005,Treadmill,Sports,6/30/2022,F007,In Use,12/8/2022,Bipana@webster.edu,3/18/2023 8:30
+E006,UC Laptop (2),AV,1/10/2023,F010,Available,10/16/2023,Billy@webster.edu,5/19/2024 22:00
+E007,Bose Sound System,AV,5/15/2021,F013,Available,6/14/2024,Jeniffer@webster.edu,6/14/2024 21:00
+E008,Weight Set,Sports,12/1/2022,F012,In Use,2/14/2024,Katie@webster.edu,2/14/2024 22:00
+E009,Sunnen Handheld Microphone,AV,7/20/2020,F002,Available,6/17/2023,JoshParreteu@webster.edu,1/9/2024 1:30
+E010,Racquetball Equipment Set,Sports,8/15/2022,F004,Available,9/17/2024,Jeniffer@webster.edu,10/25/2024 4:45
+E011,Conference Table,Furniture,2/28/2020,F011,In Maintenance,10/4/2024,Katie@webster.edu,12/2/2024 12:45
+E012,UC Bikes ,Sports,10/5/2022,F012,In Maintenance,12/3/2023,Jeniffer@webster.edu,12/3/2023 10:00
+E013,Multimedia Projector,AV,6/18/2023,F007,In Use,12/1/2022,Jeniffer@webster.edu,4/4/2023 1:30
+E014,Swimming Training Boards,Sports,7/17/2021,F003,Available,11/14/2022,JoshParreteu@webster.edu,10/2/2024 8:30
+E015,Fitness Training Machines,Sports,4/22/2023,F005,In Use,2/29/2024,JoshParreteu@webster.edu,5/25/2024 9:00
+E016,Basketball 1,Sports,02/25/2024,F012,Available,06/15/2025,Justin@webster.edu,10/11/2025 00:00
+E017,Folding Table 2,Furniture,12/27/2022,F027,Available,01/14/2024,Annamaria@webster.edu,02/16/2024 00:00
+E018,Exercise Bike 3,Fitness,11/19/2023,F012,Available,09/30/2024,Justin@webster.edu,01/23/2025 00:00
+E019,Yoga Mat 4,Fitness,07/22/2024,F001,Available,08/18/2025,Katie@webster.edu,10/22/2025 00:00
+E020,Treadmill 5,Fitness,01/29/2021,F005,In Use,03/19/2022,Katie@webster.edu,07/15/2022 00:00
+E021,Soccer Ball 6,Sports,06/24/2024,F023,Available,07/26/2025,Justin@webster.edu,11/18/2025 00:00
+E022,Speaker 7,AV,09/05/2021,F035,In Use,12/17/2022,Bipana@webster.edu,01/04/2023 00:00
+E023,Laptop 8,AV,04/05/2023,F027,Maintenance,07/21/2023,Bipana@webster.edu,07/24/2023 00:00
+E024,Camera 9,AV,10/09/2024,F010,Available,08/10/2025,Annamaria@webster.edu,11/27/2025 00:00
+E025,Projector 10,AV,11/24/2023,F001,In Use,10/30/2024,Annamaria@webster.edu,12/08/2024 00:00
+E026,Exercise Bike 11,Fitness,06/05/2024,F022,Maintenance,09/15/2025,Katie@webster.edu,10/26/2025 00:00
+E027,Microphone 12,AV,06/04/2024,F007,Available,09/07/2025,Josh@webster.edu,11/29/2025 00:00
+E028,Treadmill 13,Fitness,03/27/2023,F012,In Use,08/06/2023,Josh@webster.edu,11/09/2023 00:00
+E029,Exercise Bike 14,Fitness,12/24/2020,F028,Available,03/01/2021,Katie@webster.edu,03/07/2021 00:00
+E030,Elliptical 15,Fitness,09/30/2022,F005,Maintenance,12/11/2022,Josh@webster.edu,12/17/2022 00:00
+E031,Projector 16,AV,08/21/2023,F011,In Use,01/25/2024,Josh@webster.edu,03/23/2024 00:00
+E032,Yoga Mat 17,Fitness,09/11/2022,F010,Available,12/06/2023,Josh@webster.edu,04/03/2024 00:00
+E033,Whiteboard 18,Furniture,06/24/2022,F006,In Use,06/21/2023,Katie@webster.edu,09/16/2023 00:00
+E034,Barbell 19,Fitness,07/12/2022,F018,In Use,09/10/2023,Justin@webster.edu,12/03/2023 00:00
+E035,Laptop 20,AV,02/22/2022,F007,In Use,10/11/2022,Josh@webster.edu,01/26/2023 00:00
+E036,Speaker 21,AV,08/09/2020,F014,Available,05/26/2021,Josh@webster.edu,07/15/2021 00:00
+E037,Speaker 22,AV,11/02/2024,F009,In Use,09/17/2025,Annamaria@webster.edu,12/27/2025 00:00
+E038,Resistance Band 23,Fitness,08/09/2021,F012,Available,03/22/2022,Bipana@webster.edu,06/25/2022 00:00
+E039,Microphone 24,AV,06/16/2022,F029,Available,09/11/2023,Annamaria@webster.edu,09/14/2023 00:00
+E040,Speaker 25,AV,08/06/2021,F010,Available,03/26/2022,Josh@webster.edu,04/06/2022 00:00
+E041,Resistance Band 26,Fitness,06/29/2024,F016,In Use,06/02/2025,Bipana@webster.edu,09/25/2025 00:00
+E042,Resistance Band 27,Fitness,11/28/2024,F026,In Use,01/16/2026,Annamaria@webster.edu,03/27/2026 00:00
+E043,Speaker 28,AV,09/20/2023,F014,Maintenance,10/24/2024,Josh@webster.edu,02/01/2025 00:00
+E044,Elliptical 29,Fitness,02/13/2022,F010,Maintenance,11/07/2022,Bipana@webster.edu,11/19/2022 00:00
+E045,Dumbbell Set 30,Fitness,10/20/2022,F031,Available,05/11/2023,Annamaria@webster.edu,06/04/2023 00:00
+E046,Soccer Ball 31,Sports,05/19/2023,F021,In Use,09/03/2024,Annamaria@webster.edu,11/03/2024 00:00
+E047,Projector 32,AV,11/16/2020,F007,Maintenance,01/17/2021,Katie@webster.edu,04/09/2021 00:00
+E048,Dumbbell Set 33,Fitness,10/11/2022,F031,In Use,11/20/2023,Josh@webster.edu,01/25/2024 00:00
+E049,Folding Chair 34,Furniture,02/06/2021,F003,In Use,12/21/2021,Annamaria@webster.edu,01/14/2022 00:00
+E050,Microphone 35,AV,09/29/2024,F002,Available,07/20/2025,Bipana@webster.edu,07/23/2025 00:00
+E051,Treadmill 36,Fitness,07/17/2021,F015,In Use,05/16/2022,Josh@webster.edu,05/24/2022 00:00
+E052,Treadmill 37,Fitness,05/25/2024,F020,Maintenance,09/21/2024,Justin@webster.edu,12/03/2024 00:00
+E053,Folding Chair 38,Furniture,06/17/2023,F006,Available,05/13/2024,Bipana@webster.edu,07/05/2024 00:00
+E054,Folding Chair 39,Furniture,03/21/2022,F002,Available,02/22/2023,Bipana@webster.edu,03/14/2023 00:00
+E055,Exercise Bike 40,Fitness,07/26/2024,F027,Maintenance,03/26/2025,Bipana@webster.edu,04/10/2025 00:00
+E056,Camera 41,AV,04/13/2022,F005,In Use,09/25/2022,Josh@webster.edu,11/26/2022 00:00
+E057,Folding Chair 42,Furniture,10/16/2023,F029,Available,05/23/2024,Justin@webster.edu,08/30/2024 00:00
+E058,Barbell 43,Fitness,10/23/2022,F034,Available,08/15/2023,Bipana@webster.edu,10/09/2023 00:00
+E059,Treadmill 44,Fitness,11/19/2023,F016,Maintenance,10/14/2024,Bipana@webster.edu,11/13/2024 00:00
+E060,Treadmill 45,Fitness,11/21/2022,F028,Available,01/29/2023,Annamaria@webster.edu,04/19/2023 00:00
+E061,Projector 46,AV,04/01/2021,F033,Maintenance,03/22/2022,Annamaria@webster.edu,06/12/2022 00:00
+E062,Speaker 47,AV,08/25/2023,F001,Available,04/05/2024,Josh@webster.edu,04/11/2024 00:00
+E063,Tripod 48,AV,03/30/2024,F026,Available,07/27/2024,Justin@webster.edu,08/24/2024 00:00
+E064,Microphone 49,AV,02/25/2021,F014,Available,04/17/2022,Annamaria@webster.edu,04/30/2022 00:00
+E065,Yoga Mat 50,Fitness,08/05/2022,F021,Available,12/26/2022,Bipana@webster.edu,04/13/2023 00:00
+E066,Barbell 51,Fitness,01/04/2021,F021,Available,05/04/2022,Katie@webster.edu,07/03/2022 00:00
+E067,Elliptical 52,Fitness,10/26/2020,F017,Available,07/10/2021,Justin@webster.edu,09/22/2021 00:00
+E068,Resistance Band 53,Fitness,03/12/2020,F009,In Use,06/01/2021,Katie@webster.edu,08/06/2021 00:00
+E069,Yoga Mat 54,Fitness,09/14/2024,F019,In Use,04/17/2025,Annamaria@webster.edu,05/23/2025 00:00
+E070,Soccer Ball 55,Sports,11/12/2022,F033,Available,05/14/2023,Justin@webster.edu,08/20/2023 00:00
+E071,Treadmill 56,Fitness,03/20/2023,F009,In Use,08/25/2023,Katie@webster.edu,12/07/2023 00:00
+E072,Volleyball 57,Sports,04/22/2023,F012,Available,04/28/2024,Bipana@webster.edu,06/24/2024 00:00
+E073,Basketball 58,Sports,11/11/2021,F001,Maintenance,05/13/2022,Justin@webster.edu,07/19/2022 00:00
+E074,Elliptical 59,Fitness,06/01/2022,F028,Available,06/29/2023,Justin@webster.edu,10/25/2023 00:00
+E075,Basketball 60,Sports,10/25/2023,F013,Available,10/26/2024,Josh@webster.edu,12/22/2024 00:00
+E076,Dumbbell Set 61,Fitness,07/11/2021,F018,In Use,07/22/2022,Bipana@webster.edu,10/16/2022 00:00
+E077,Yoga Mat 62,Fitness,04/14/2021,F022,Available,01/19/2022,Bipana@webster.edu,03/21/2022 00:00
+E078,Elliptical 63,Fitness,08/11/2024,F007,Available,11/19/2024,Katie@webster.edu,12/18/2024 00:00
+E079,Folding Table 64,Furniture,03/09/2020,F014,Available,07/01/2021,Justin@webster.edu,08/04/2021 00:00
+E080,Treadmill 65,Fitness,12/27/2020,F011,Available,05/07/2022,Bipana@webster.edu,05/20/2022 00:00
+E081,Microphone 66,AV,08/03/2023,F019,Available,11/14/2023,Annamaria@webster.edu,01/13/2024 00:00
+E082,Projector 67,AV,04/30/2022,F024,Available,10/22/2022,Josh@webster.edu,10/25/2022 00:00
+E083,Projector 68,AV,08/26/2023,F017,Available,12/16/2024,Bipana@webster.edu,03/30/2025 00:00
+E084,Weight Bench 69,Fitness,01/18/2021,F031,Available,03/26/2022,Justin@webster.edu,06/21/2022 00:00
+E085,Yoga Mat 70,Fitness,09/14/2024,F035,Maintenance,12/13/2024,Bipana@webster.edu,02/19/2025 00:00
+E086,Elliptical 71,Fitness,02/03/2021,F002,In Use,04/12/2022,Josh@webster.edu,05/04/2022 00:00
+E087,Barbell 72,Fitness,12/09/2021,F005,Available,02/13/2023,Katie@webster.edu,04/03/2023 00:00
+E088,Tripod 73,AV,06/20/2023,F015,Available,07/06/2024,Josh@webster.edu,10/06/2024 00:00
+E089,Dumbbell Set 74,Fitness,06/30/2020,F010,Maintenance,08/04/2021,Bipana@webster.edu,11/02/2021 00:00
+E090,Whiteboard 75,Furniture,02/06/2021,F001,In Use,07/02/2021,Katie@webster.edu,08/21/2021 00:00
+E091,Treadmill 76,Fitness,02/26/2023,F017,Maintenance,03/08/2024,Josh@webster.edu,04/10/2024 00:00
+E092,Volleyball 77,Sports,07/16/2024,F027,Maintenance,11/26/2024,Bipana@webster.edu,12/30/2024 00:00
+E093,Speaker 78,AV,04/30/2022,F014,Available,08/08/2022,Justin@webster.edu,09/12/2022 00:00
+E094,Whiteboard 79,Furniture,03/12/2023,F032,Available,12/29/2023,Bipana@webster.edu,04/15/2024 00:00
+E095,Microphone 80,AV,06/11/2020,F024,In Use,09/25/2020,Annamaria@webster.edu,12/18/2020 00:00
+E096,Projector 81,AV,09/16/2024,F030,Maintenance,01/04/2025,Katie@webster.edu,01/29/2025 00:00
+E097,Projector 82,AV,07/24/2023,F029,Available,05/29/2024,Bipana@webster.edu,06/14/2024 00:00
+E098,Exercise Bike 83,Fitness,09/03/2022,F010,Available,09/08/2023,Justin@webster.edu,09/10/2023 00:00
+E099,Soccer Ball 84,Sports,03/14/2020,F004,Available,03/16/2021,Bipana@webster.edu,06/24/2021 00:00
+E100,Laptop 85,AV,03/03/2024,F018,Available,12/22/2024,Josh@webster.edu,04/09/2025 00:00
+E101,Laptop 86,AV,05/24/2020,F031,Maintenance,09/24/2020,Josh@webster.edu,11/10/2020 00:00
+E102,Soccer Ball 87,Sports,12/29/2021,F031,Available,10/23/2022,Justin@webster.edu,12/08/2022 00:00
+E103,Whiteboard 88,Furniture,12/09/2021,F026,Available,11/07/2022,Bipana@webster.edu,12/03/2022 00:00
+E104,Tripod 89,AV,05/02/2022,F024,Available,10/23/2022,Justin@webster.edu,01/14/2023 00:00
+E105,Exercise Bike 90,Fitness,10/20/2023,F016,Available,04/16/2024,Annamaria@webster.edu,06/02/2024 00:00
+E106,Barbell 91,Fitness,10/21/2024,F031,Maintenance,01/20/2026,Bipana@webster.edu,03/26/2026 00:00
+E107,Treadmill 92,Fitness,04/02/2024,F032,Available,05/11/2025,Bipana@webster.edu,07/09/2025 00:00
+E108,Camera 93,AV,02/27/2020,F009,Available,05/16/2021,Katie@webster.edu,05/31/2021 00:00
+E109,Laptop 94,AV,12/30/2021,F019,Available,05/15/2022,Justin@webster.edu,09/09/2022 00:00
+E110,Projector 95,AV,07/24/2022,F009,Available,11/02/2022,Bipana@webster.edu,12/17/2022 00:00
+E111,Basketball 96,Sports,07/26/2024,F006,Available,02/15/2025,Josh@webster.edu,05/27/2025 00:00
+E112,Elliptical 97,Fitness,07/11/2024,F027,Available,11/24/2024,Josh@webster.edu,01/11/2025 00:00
+E113,Tripod 98,AV,03/11/2022,F025,Available,11/23/2022,Katie@webster.edu,03/23/2023 00:00
+E114,Basketball 99,Sports,02/16/2022,F028,Available,06/17/2022,Josh@webster.edu,09/29/2022 00:00
+E115,Basketball 100,Sports,07/15/2022,F005,Maintenance,11/05/2022,Justin@webster.edu,02/22/2023 00:00
+E116,Laptop 101,AV,09/03/2022,F021,Available,11/05/2023,Katie@webster.edu,01/05/2024 00:00
+E117,Weight Bench 102,Fitness,01/06/2024,F003,In Use,08/30/2024,Katie@webster.edu,10/29/2024 00:00
+E118,Exercise Bike 103,Fitness,09/24/2023,F007,Available,01/30/2025,Annamaria@webster.edu,04/30/2025 00:00
+E119,Microphone 104,AV,11/05/2022,F014,Available,03/14/2024,Bipana@webster.edu,03/20/2024 00:00
+E120,Folding Chair 105,Furniture,08/30/2021,F008,Maintenance,01/01/2022,Annamaria@webster.edu,03/23/2022 00:00
+E121,Projector 106,AV,06/30/2021,F033,Available,01/17/2022,Katie@webster.edu,03/31/2022 00:00
+E122,Basketball 107,Sports,05/01/2024,F002,Available,07/18/2025,Justin@webster.edu,08/25/2025 00:00
+E123,Microphone 108,AV,12/05/2022,F022,Available,03/22/2024,Annamaria@webster.edu,03/24/2024 00:00
+E124,Basketball 109,Sports,04/17/2024,F026,Available,06/25/2024,Justin@webster.edu,09/24/2024 00:00
+E125,Basketball 110,Sports,11/29/2024,F035,Maintenance,04/21/2025,Katie@webster.edu,06/01/2025 00:00
+E126,Folding Table 111,Furniture,02/02/2023,F001,Maintenance,05/11/2024,Annamaria@webster.edu,05/16/2024 00:00
+E127,Whiteboard 112,Furniture,07/19/2023,F026,Available,03/10/2024,Josh@webster.edu,03/12/2024 00:00
+E128,Microphone 113,AV,03/25/2022,F019,Available,06/30/2022,Katie@webster.edu,07/27/2022 00:00
+E129,Folding Chair 114,Furniture,02/24/2022,F011,Available,02/25/2023,Bipana@webster.edu,06/22/2023 00:00
+E130,Speaker 115,AV,07/04/2020,F018,Maintenance,10/13/2021,Katie@webster.edu,11/03/2021 00:00
+E131,Folding Chair 116,Furniture,08/10/2023,F031,Available,05/25/2024,Josh@webster.edu,07/02/2024 00:00
+E132,Volleyball 117,Sports,11/20/2023,F001,In Use,09/30/2024,Bipana@webster.edu,11/25/2024 00:00
+E133,Exercise Bike 118,Fitness,03/31/2023,F004,Available,12/03/2023,Josh@webster.edu,12/28/2023 00:00
+E134,Elliptical 119,Fitness,11/12/2023,F021,Available,09/11/2024,Katie@webster.edu,11/01/2024 00:00
+E135,Whiteboard 120,Furniture,10/23/2022,F021,Available,09/20/2023,Katie@webster.edu,10/26/2023 00:00
+E136,Barbell 121,Fitness,10/19/2024,F021,Available,08/24/2025,Katie@webster.edu,11/17/2025 00:00
+E137,Exercise Bike 122,Fitness,02/10/2021,F034,Available,02/06/2022,Annamaria@webster.edu,03/12/2022 00:00
+E138,Yoga Mat 123,Fitness,05/05/2024,F015,Maintenance,09/16/2025,Bipana@webster.edu,12/26/2025 00:00
+E139,Camera 124,AV,01/30/2023,F021,Available,12/23/2023,Bipana@webster.edu,04/05/2024 00:00
+E140,Resistance Band 125,Fitness,06/15/2023,F033,Available,12/05/2023,Justin@webster.edu,01/02/2024 00:00
+E141,Weight Bench 126,Fitness,06/19/2023,F008,Available,06/08/2024,Bipana@webster.edu,07/19/2024 00:00
+E142,Tripod 127,AV,03/02/2021,F025,In Use,10/11/2021,Katie@webster.edu,01/04/2022 00:00
+E143,Weight Bench 128,Fitness,08/06/2020,F033,Available,10/27/2021,Bipana@webster.edu,11/08/2021 00:00
+E144,Treadmill 129,Fitness,04/28/2022,F020,Available,07/27/2022,Katie@webster.edu,08/27/2022 00:00
+E145,Weight Bench 130,Fitness,01/03/2021,F018,Available,10/17/2021,Josh@webster.edu,01/13/2022 00:00
+E146,Basketball 131,Sports,11/24/2023,F033,Maintenance,05/22/2024,Annamaria@webster.edu,08/04/2024 00:00
+E147,Barbell 132,Fitness,04/03/2021,F006,Maintenance,07/31/2022,Justin@webster.edu,09/13/2022 00:00
+E148,Camera 133,AV,11/29/2020,F017,Available,08/30/2021,Justin@webster.edu,10/27/2021 00:00
+E149,Yoga Mat 134,Fitness,03/18/2021,F021,Maintenance,06/01/2021,Annamaria@webster.edu,07/31/2021 00:00
+E150,Folding Table 135,Furniture,06/21/2023,F012,Available,09/08/2024,Annamaria@webster.edu,12/05/2024 00:00
+E151,Soccer Ball 136,Sports,12/14/2022,F009,Available,05/03/2023,Annamaria@webster.edu,08/18/2023 00:00
+E152,Yoga Mat 137,Fitness,01/30/2021,F004,Available,01/12/2022,Annamaria@webster.edu,03/06/2022 00:00
+E153,Camera 138,AV,03/24/2020,F029,Available,07/09/2021,Annamaria@webster.edu,09/25/2021 00:00
+E154,Elliptical 139,Fitness,03/06/2021,F001,Available,02/17/2022,Josh@webster.edu,02/19/2022 00:00
+E155,Barbell 140,Fitness,01/03/2023,F032,Available,10/21/2023,Katie@webster.edu,01/25/2024 00:00
+E156,Speaker 141,AV,08/27/2020,F035,Maintenance,09/14/2021,Justin@webster.edu,10/15/2021 00:00
+E157,Laptop 142,AV,10/05/2022,F032,Maintenance,09/18/2023,Bipana@webster.edu,12/05/2023 00:00
+E158,Treadmill 143,Fitness,02/10/2020,F002,Maintenance,04/06/2021,Justin@webster.edu,06/10/2021 00:00
+E159,Exercise Bike 144,Fitness,12/04/2023,F023,Available,08/29/2024,Bipana@webster.edu,11/07/2024 00:00
+E160,Exercise Bike 145,Fitness,03/17/2020,F026,Available,05/17/2020,Katie@webster.edu,07/14/2020 00:00
+E161,Folding Table 146,Furniture,11/25/2024,F012,Available,04/03/2026,Justin@webster.edu,07/30/2026 00:00
+E162,Whiteboard 147,Furniture,12/10/2022,F014,Available,02/26/2024,Bipana@webster.edu,03/24/2024 00:00
+E163,Camera 148,AV,12/31/2020,F031,In Use,04/07/2022,Justin@webster.edu,05/25/2022 00:00
+E164,Folding Chair 149,Furniture,02/28/2023,F017,Available,05/26/2023,Josh@webster.edu,06/09/2023 00:00
+E165,Projector 150,AV,05/07/2023,F020,Available,06/27/2024,Josh@webster.edu,10/20/2024 00:00
+E166,Soccer Ball 151,Sports,07/07/2024,F011,Available,11/04/2025,Katie@webster.edu,01/24/2026 00:00
+E167,Treadmill 152,Fitness,05/10/2020,F029,In Use,08/23/2021,Justin@webster.edu,08/28/2021 00:00
+E168,Resistance Band 153,Fitness,04/30/2021,F017,In Use,02/06/2022,Annamaria@webster.edu,03/14/2022 00:00
+E169,Volleyball 154,Sports,06/07/2023,F016,Available,05/23/2024,Josh@webster.edu,09/18/2024 00:00
+E170,Whiteboard 155,Furniture,12/10/2020,F009,Available,06/21/2021,Annamaria@webster.edu,06/24/2021 00:00
+E171,Whiteboard 156,Furniture,09/13/2023,F003,Available,01/29/2024,Katie@webster.edu,03/13/2024 00:00
+E172,Treadmill 157,Fitness,08/29/2021,F012,Available,04/20/2022,Josh@webster.edu,08/10/2022 00:00
+E173,Tripod 158,AV,02/16/2024,F023,Available,02/03/2025,Bipana@webster.edu,03/22/2025 00:00
+E174,Volleyball 159,Sports,08/18/2020,F006,Available,07/17/2021,Josh@webster.edu,10/07/2021 00:00
+E175,Resistance Band 160,Fitness,03/11/2024,F019,Maintenance,12/06/2024,Justin@webster.edu,01/12/2025 00:00
+E176,Projector 161,AV,07/23/2022,F011,Maintenance,01/24/2023,Josh@webster.edu,05/12/2023 00:00
+E177,Projector 162,AV,08/20/2021,F027,Available,07/04/2022,Katie@webster.edu,08/28/2022 00:00
+E178,Folding Chair 163,Furniture,04/30/2020,F031,Maintenance,05/07/2021,Josh@webster.edu,07/14/2021 00:00
+E179,Resistance Band 164,Fitness,04/29/2021,F035,Maintenance,09/12/2021,Justin@webster.edu,09/21/2021 00:00
+E180,Speaker 165,AV,05/06/2022,F025,Available,11/21/2022,Katie@webster.edu,01/02/2023 00:00
+E181,Folding Chair 166,Furniture,03/21/2020,F023,Available,06/01/2021,Josh@webster.edu,07/24/2021 00:00
+E182,Basketball 167,Sports,12/24/2020,F005,Available,03/09/2022,Josh@webster.edu,05/18/2022 00:00
+E183,Speaker 168,AV,06/23/2024,F009,Available,06/07/2025,Annamaria@webster.edu,06/24/2025 00:00
+E184,Basketball 169,Sports,08/05/2023,F017,Maintenance,11/09/2024,Josh@webster.edu,02/20/2025 00:00
+E185,Folding Table 170,Furniture,07/09/2023,F034,In Use,05/12/2024,Bipana@webster.edu,07/04/2024 00:00
+E186,Speaker 171,AV,02/16/2020,F033,Available,03/07/2021,Katie@webster.edu,06/28/2021 00:00
+E187,Speaker 172,AV,01/27/2020,F011,Maintenance,01/12/2021,Bipana@webster.edu,04/29/2021 00:00
+E188,Barbell 173,Fitness,07/26/2021,F007,In Use,12/08/2021,Katie@webster.edu,02/24/2022 00:00
+E189,Treadmill 174,Fitness,11/09/2020,F031,In Use,10/24/2021,Annamaria@webster.edu,11/02/2021 00:00
+E190,Microphone 175,AV,10/29/2023,F018,In Use,02/12/2025,Josh@webster.edu,04/07/2025 00:00
+E191,Yoga Mat 176,Fitness,02/11/2024,F016,Available,12/04/2024,Justin@webster.edu,12/08/2024 00:00
+E192,Projector 177,AV,08/31/2023,F020,Available,05/05/2024,Josh@webster.edu,05/23/2024 00:00
+E193,Basketball 178,Sports,11/25/2021,F010,In Use,03/22/2023,Katie@webster.edu,06/30/2023 00:00
+E194,Barbell 179,Fitness,10/20/2021,F025,Available,11/19/2022,Bipana@webster.edu,02/25/2023 00:00
+E195,Volleyball 180,Sports,02/19/2024,F029,Available,03/22/2025,Bipana@webster.edu,05/14/2025 00:00
+E196,Barbell 181,Fitness,11/20/2021,F027,Available,10/02/2022,Josh@webster.edu,11/27/2022 00:00
+E197,Laptop 182,AV,10/23/2021,F005,Available,04/07/2022,Justin@webster.edu,07/12/2022 00:00
+E198,Microphone 183,AV,01/13/2022,F021,In Use,05/12/2022,Justin@webster.edu,08/02/2022 00:00
+E199,Laptop 184,AV,07/24/2023,F010,Maintenance,06/05/2024,Katie@webster.edu,07/30/2024 00:00
+E200,Weight Bench 185,Fitness,08/02/2024,F034,Maintenance,06/16/2025,Annamaria@webster.edu,10/05/2025 00:00
