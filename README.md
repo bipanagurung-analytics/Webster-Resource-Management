@@ -156,8 +156,6 @@ diagrams/
 
 screenshots/
 
-python/
-
 documentation/
 
 README.md
